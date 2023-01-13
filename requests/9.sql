@@ -1,0 +1,1 @@
+call showSessionsByType("Екзамен");

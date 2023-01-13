@@ -1,0 +1,1 @@
+CALL findTeacherByPosition("Асистент");

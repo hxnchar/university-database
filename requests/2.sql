@@ -1,0 +1,1 @@
+CALL showInfoGroup("ІП-02");

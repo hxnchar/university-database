@@ -1,0 +1,1 @@
+call sessionByDate("2019-06-01");

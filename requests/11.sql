@@ -1,0 +1,1 @@
+call teachersByDepartment("Кафедра алгебри");
